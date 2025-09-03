@@ -97,7 +97,7 @@ The Brand Asset files are distributed **for reference only** and may not be copi
 - **Signature:** *5T4FGRWX7*
 - **File name:** *trademark-BE/README.md*
 
-**Go to royalbotics.github.io/verify/signature to verify this file.**
+**Go to https://royalbotics.github.io/verify/signature to verify this file.**
 
 Ro&Bot™ Digital Signature ensures you that this is a real file and not fake always check if this file is not fake by putting the Siganture in to the verifier.
 
