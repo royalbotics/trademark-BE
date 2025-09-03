@@ -8,9 +8,9 @@ This document serves as a formal notice regarding the ownership, copyright, and 
 
 ## 1. Ownership
 
-All Brand Assets, including but not limited to the company logo, graphic designs, icons, typographic designs, color schemes, and any related visual representations, are the **exclusive property of [COMPANY NAME]**. These assets have been created, developed, and maintained by RoAndBot and are protected under applicable intellectual property laws, both registered and unregistered.
+All Brand Assets, including but not limited to the company logo, graphic designs, icons, typographic designs, color schemes, and any related visual representations, are the **exclusive property of RoAndBot**. These assets have been created, developed, and maintained by RoAndBot and are protected under applicable intellectual property laws, both registered and unregistered.
 
-No part of these assets may be copied, modified, reproduced, distributed, displayed, or otherwise used, in whole or in part, without prior **explicit written permission** from Ro&Bot. Unauthorized use may result in civil or criminal legal liability.
+No part of these assets may be copied, modified, reproduced, distributed, displayed, or otherwise used, in whole or in part, without prior **explicit written permission** from RoAndBot. Unauthorized use may result in civil or criminal legal liability.
 
 ---
 
