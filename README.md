@@ -2,7 +2,7 @@
 
 © 2025 RoAndBot. All rights reserved.
 
-This document serves as a formal notice regarding the ownership, copyright, and trademark claims associated with the **Buissness Empire™** brand and its associated logo, graphics, icons, and brand identity materials (collectively, the "Brand Assets"). By accessing, using, or viewing the Brand Assets, you acknowledge and agree to the terms outlined herein.
+This document serves as a formal notice regarding the ownership, copyright, and trademark claims associated with the **The Buissness Empire™** brand and its associated logo, graphics, icons, and brand identity materials (collectively, the "Brand Assets"). By accessing, using, or viewing the Brand Assets, you acknowledge and agree to the terms outlined herein.
 
 ---
 
@@ -16,7 +16,7 @@ No part of these assets may be copied, modified, reproduced, distributed, displa
 
 ## 2. Trademark Claims
 
-- **Buissnes Empire™** and the **[COMPANY LOGO]™** are trademarks claimed by RoAndBot.  
+- **The Buissnes Empire™** and the **[COMPANY LOGO]™** are trademarks claimed by RoAndBot.  
 - These trademarks are currently **unregistered**; however, RoAndBot asserts ownership and exclusive rights to use, license, and protect these trademarks under the following legal bases:
 
   ### United States
@@ -31,7 +31,7 @@ No part of these assets may be copied, modified, reproduced, distributed, displa
   - Trademark rights arise under **common law via use** and under the **Trade Marks Act 1995 (Cth)**.  
   - Use of the mark in commerce grants RoAndBot enforceable rights against infringement or passing off.
 
-- Any unauthorized use of Buissnes Empire™ or [COMPANY LOGO]™ may constitute **trademark infringement** or **passing off**, and may subject infringers to civil or criminal liability in applicable jurisdictions.
+- Any unauthorized use of The Buissnes Empire™ or [COMPANY LOGO]™ may constitute **trademark infringement** or **passing off**, and may subject infringers to civil or criminal liability in applicable jurisdictions.
 
 - **Other Jurisdictions**: RoAndBot claims rights under similar unregistered trademark laws and common law protections in countries worldwide where the Brand Assets are recognized and used.
 
@@ -75,8 +75,8 @@ No part of these assets may be copied, modified, reproduced, distributed, displa
 
 For **permissions, licensing, or other inquiries** regarding the use of Buissnes Empire™ or [COMPANY LOGO]™:  
 
-**Email:** [YOUR EMAIL ADDRESS]  
-**Website:** [YOUR WEBSITE URL]  
+**Email:** IDK yet 
+**Website:** Not Exsisting at the moment 
 
 ---
 
